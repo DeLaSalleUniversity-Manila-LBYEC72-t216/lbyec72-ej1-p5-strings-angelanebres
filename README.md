@@ -2,11 +2,11 @@
 lbyec72-ej1-p5-strings-angelanebres created by GitHub Classroom
 
 UPDATE- AUGUST 2, 2016
-![](1.PNG)
-![](2.PNG)
-![](3.PNG)
-![](4.PNG)
-![](5.PNG)
+![](12.PNG)
+![](13.PNG)
+![](14.PNG)
+![](15.PNG)
+![](16.PNG)
 ![](6.PNG)
 
 
